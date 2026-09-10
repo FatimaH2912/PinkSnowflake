@@ -158,4 +158,6 @@ These design choices turn a mathematical fractal into a more visually expressive
 **Course:** BS Computer Science
 **Lab:** Fractal Visualization Lab
 
+## Shirt Design
+![Shirt](Shirt-1.jpg)
 
