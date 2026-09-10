@@ -153,10 +153,13 @@ These design choices turn a mathematical fractal into a more visually expressive
 ## Student Information
 
 **Name:** Fatima Haroon
-**Registration Number:** `[YOUR REGISTRATION NUMBER]`
+**Registration Number:** 577112
 
 **Course:** BS Computer Science
 **Lab:** Fractal Visualization Lab
+
+## Output 
+![Output](Output.jpg)
 
 ## Shirt Design
 ![Shirt](Shirt-1.jpg)
