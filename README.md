@@ -20,14 +20,14 @@ In this project, the Koch curve is generated using a recursive function with a r
 
 ## Features
 
-* ❄️ Recursive Koch Snowflake generation
-* 🌸 Multiple shades of pink
-* ✨ Decorative sparkles
-* 🌷 Small flower-like decorations
-* 🌙 Dark background for contrast
-* 🔺 Three-sided symmetrical fractal structure
-* 🌀 Recursive subdivision of line segments
-* 🎨 Creative visual composition using Python Turtle
+*  Recursive Koch Snowflake generation
+*  Multiple shades of pink
+*  Decorative sparkles
+*  Small flower-like decorations
+*  Dark background for contrast
+*  Three-sided symmetrical fractal structure
+*  Recursive subdivision of line segments
+*  Creative visual composition using Python Turtle
 
 ---
 
